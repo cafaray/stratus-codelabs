@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-09-02T12:59:40+02:00",
+  "id": "resources",
+  "duration": 4,
+  "title": "Cloud infrastructure",
+  "authors": "cafarias",
+  "summary": "Cloud basics",
+  "source": ".\\infrastructure.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "cloud"
+  ],
+  "tags": [
+    "cloud",
+    "cxb"
+  ],
+  "feedback": "https://cafarias.io",
+  "url": "resources"
+}

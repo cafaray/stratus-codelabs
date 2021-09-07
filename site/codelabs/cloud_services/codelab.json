@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-09-02T12:53:27+02:00",
+  "id": "cloud_services",
+  "duration": 10,
+  "title": "Cloud services",
+  "authors": "cafarias",
+  "summary": "Cloud basics",
+  "source": ".\\cloud_services.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "cloud"
+  ],
+  "tags": [
+    "cloud",
+    "cxb"
+  ],
+  "feedback": "https://cafarias.io",
+  "url": "cloud_services"
+}

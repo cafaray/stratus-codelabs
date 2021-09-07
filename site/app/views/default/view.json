@@ -1,0 +1,13 @@
+{
+  "title": "Stratus Codelabs",
+  "description": "Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of knowledge and gain key concepts for the Stratus project. Also, some codelabas are prepared for building a small sample application, or adding a new feature to an existing one.",
+  "tags": ["ibmcloud","CXB","stratus","cloud","services","iaas","paas","saas"],
+  "categories": ["cloud","services","iaas","paas","saas"],
+  "exclude": [
+    "^lang-.*"
+  ],
+  "logoUrl": "/images/logo.png",
+  "toolbarBgColor": "#37474F",
+  "sort": "mainCategory",
+  "pins": []
+}
